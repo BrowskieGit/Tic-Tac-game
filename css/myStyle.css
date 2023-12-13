@@ -1,0 +1,38 @@
+body {
+    background: url("../img/Fight_bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  table td {
+    padding: 10px !important;
+  }
+  #c1,
+  #c2,
+  #c3,
+  #c4,
+  #c5,
+  #c6,
+  #c7,
+  #c8,
+  #c9 {
+    width: 150px;
+    height: 110px;
+    background-color: #711db0;
+    font-size: 40px;
+    color: #fff;
+  }
+  .titleBlock {
+    backdrop-filter: blur(10px);
+  }
+  #titleText,
+  #opText,
+  .textShadow {
+    text-shadow: 2px 2px red;
+  }
+  .playerImg {
+    width: 120px;
+    border-radius: 50% !important;
+  }
+  .editLogo {
+    width: 35px;
+  }
